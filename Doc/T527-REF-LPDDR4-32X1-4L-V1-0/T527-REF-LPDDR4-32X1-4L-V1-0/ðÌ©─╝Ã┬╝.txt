@@ -1,0 +1,12 @@
+20220212
+1.从A100模板修改而来，更新主控,修改网络名
+2.修改LPDDR4颗粒ODT pin的上拉电阻。
+3.修改电容方案。
+20220224
+1.根据LPDDR4 remapping要求，固定LPDDR4 DQ CA remapping
+20220506
+1.更新SOC封装
+20220913
+1.基于A523 LPDDR4模板，更新SOC封装
+20221108
+1.根据DDR remapping，刷新SOC原理图封装
